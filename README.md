@@ -9,9 +9,7 @@ cd Clock
 ```
 
 Run each script using Python:
-```python digital.py```
-Or
-```python analog.py```
+```python digital.py``` or ```python analog.py```
 
 > [!NOTE]
 > Use ```python3``` for macOS
